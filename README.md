@@ -1,2 +1,2 @@
 # javen-config1
-javenbranch1
+javenbranch2
