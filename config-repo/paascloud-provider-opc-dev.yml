@@ -61,11 +61,11 @@ paascloud:
     zkAddressList: paascloud-provider-zk:2181
   qiniu:
     key:
-      accessKey: yourQiniuAccessKey
-      secretKey: yourQiniuSecretKey
+      accessKey: QKDZr4szBkHQAN_rPjooJ4rFIQ1mqf_g7azzHkEK
+      secretKey: rThvMPK00UKoWt4O4ONyXJ3YGIyX0r7YR9pXyDUp
     oss:
-      privateHost:
-      publicHost:
+      privateHost: px9125b0l.bkt.clouddn.com
+      publicHost: px9125b0l.bkt.clouddn.com
       fileMaxSize: 104857600
   oauth2:
     jwtSigningKey: paascloud
