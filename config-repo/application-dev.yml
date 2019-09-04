@@ -111,7 +111,7 @@ paascloud:
       expiredMinutes: 120
   aliyun:
     key:
-      accessKeyId: 'your aliyun accessKeyId'
+      accessKeyId: 'your aliyun accessKeyId by Javen'
       accessKeySecret: 'your aliyun accessKeySecret'
     rocketMq:
       namesrvAddr: paascloud-mq-rocket:9876
